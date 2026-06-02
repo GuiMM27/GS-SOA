@@ -47,4 +47,9 @@ A arquitetura foi desenhada seguindo as melhores práticas de Engenharia de Soft
 ---
 
 ## 📌 Evidências de Execução
-Os testes de requisição via Postman e os logs do console demonstrando o tratamento de dados e o disparo de alertas críticos (simulação de anomalia climática) encontram-se documentados na pasta `/evidencias` deste repositório.
+
+**1. Simulação de Anomalia e Retorno da API (Postman)**
+![Retorno Postman](evidencias/postman.jpg)
+
+**2. Alerta Crítico Disparado no Sistema (Terminal)**
+![Alerta Terminal](evidencias/terminal.jpg)
