@@ -53,3 +53,6 @@ A arquitetura foi desenhada seguindo as melhores práticas de Engenharia de Soft
 
 **2. Alerta Crítico Disparado no Sistema (Terminal)**
 ![Alerta Terminal](evidencias/terminal.jpg)
+
+**3. Diagrama de Fluxos da Aplicação**
+![Diagrama de Fluxos](evidencias/diagrama.png)
